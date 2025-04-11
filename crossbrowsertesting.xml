@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" thread-count="5">
+
+    <test verbose="2" preserve-order="true" name="C:/Users/Dell/IdeaProjects/OpenCart_Hybrid_Framework/src/test/java/testcases">
+        <parameter name="os" value="Windows"></parameter>
+        <parameter name="browser" value="Chrome"></parameter>
+        <classes><class name="testcases.TC01_Registration">
+            <methods><include name="vefifyAccRegistration"/>
+            </methods>
+        </class>
+        </classes>
+    </test>
+
+    <test verbose="2" preserve-order="true" name="C:/Users/Dell/IdeaProjects/OpenCart_Hybrid_Framework/src/test/java/testcases">
+        <parameter name="os" value="Windows"></parameter>
+        <parameter name="browser" value="Chrome"></parameter>
+        <classes><class name="testcases.TC01_Registration">
+            <methods><include name="vefifyAccRegistration"/>
+            </methods>
+        </class>
+        </classes>
+    </test>
+</suite>

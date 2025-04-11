@@ -1,0 +1,116 @@
+2025-04-09 12:22:49,449 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dell\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-04-09 12:25:47,410 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dell\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-04-09 16:58:28,704 INFO o.t.i.Utils [main] [Warning] The regular expression "vefifyAccRegistration" didn't match any method in class testcases.TC01_Registration
+2025-04-09 16:58:28,879 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-04-09 16:58:28,886 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-04-09 16:58:28,892 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 16:58:28,893 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 16:58:28,894 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 16:58:28,894 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 16:58:28,895 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 16:58:28,895 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 16:58:28,896 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 16:58:28,896 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 16:58:28,897 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 16:58:28,897 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 16:58:28,898 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 16:58:28,898 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 16:58:28,899 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 16:58:28,899 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 16:58:28,904 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 16:58:28,904 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 16:58:28,906 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 16:58:28,906 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 16:58:28,913 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 16:58:28,913 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 16:58:28,913 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 16:58:28,913 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 16:58:28,924 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2025-04-09 16:58:28,938 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-04-09 16:58:28,941 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 16:58:28,941 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 16:58:28,942 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 16:58:28,942 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 16:58:28,951 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dell\IdeaProjects\OpenCart_Hybrid_Framework\testng.xml
+
+2025-04-09 16:58:28,973 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2025-04-09 16:58:29,076 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@3ad2e17: 1 ms
+2025-04-09 17:01:16,800 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dell\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-04-09 17:03:59,511 INFO o.t.i.Utils [main] [Warning] The regular expression "vefifyAccRegistration" didn't match any method in class testcases.TC01_Registration
+2025-04-09 17:03:59,671 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-04-09 17:03:59,677 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-04-09 17:03:59,680 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:03:59,680 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:03:59,681 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:03:59,681 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:03:59,682 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:03:59,682 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:03:59,682 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:03:59,683 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:03:59,683 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:03:59,684 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:03:59,685 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:03:59,685 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:03:59,685 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:03:59,686 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:03:59,690 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:03:59,690 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:03:59,691 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:03:59,691 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:03:59,696 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:03:59,696 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:03:59,696 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:03:59,696 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:03:59,707 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+2025-04-09 17:03:59,717 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-04-09 17:03:59,720 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:03:59,720 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:03:59,721 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:03:59,721 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:03:59,730 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dell\IdeaProjects\OpenCart_Hybrid_Framework\testng.xml
+
+2025-04-09 17:03:59,760 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 14 ms.
+2025-04-09 17:03:59,911 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@3a12c404: 0 ms
+2025-04-09 17:54:11,772 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-04-09 17:54:11,790 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2025-04-09 17:54:11,796 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:54:11,796 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:54:11,797 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:54:11,797 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:54:11,799 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:54:11,799 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:54:11,800 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:54:11,800 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:54:11,801 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:54:11,802 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:54:11,802 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:54:11,802 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:54:11,803 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:54:11,803 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:54:11,808 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:54:11,808 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:54:11,809 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:54:11,810 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:54:11,817 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:54:11,817 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:54:11,817 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:54:11,817 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:54:11,830 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+2025-04-09 17:54:11,840 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-04-09 17:54:11,842 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:54:11,843 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:54:11,843 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-09 17:54:11,843 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-09 17:54:11,852 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\Dell\IdeaProjects\OpenCart_Hybrid_Framework\testng.xml
+
+2025-04-09 17:54:11,879 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2025-04-09 17:54:12,095 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@70f59913: 0 ms
